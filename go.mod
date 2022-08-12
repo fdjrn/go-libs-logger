@@ -1,4 +1,4 @@
-module github.com/fdjrn/github.com-fdjrn-go-libs-logger
+module github.com/fdjrn/go-libs-logger
 
 go 1.18
 
